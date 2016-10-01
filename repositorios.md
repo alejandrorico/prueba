@@ -1,29 +1,38 @@
-manejo de repositorio
+# manejo de repositorio #
+ 
 
-- en el directorio de trabajo
+### en el directorio de trabajo ###
  $ git init
 
-- configurar github
+### configurar github ###
 $ git config --global user.name "alejandrorico"
 $ git config --global user.email alejandro.cesar.rico.martinez@gmail.com
 
 
-salida de pantalla
+### salida de pantalla ###
  Initialized empty Git repository in C:/xampp/htdocs/comunidad/.git/
 
-- agregar archivos
+### agregar archivos ###
 
 $ git add .
 
 
-- agregar comentarios
+### agregar comentarios ###
 $ git commit -m "programación frontend"
 
-- dar de alta el repositorio origen 
+### dar de alta el repositorio origen ### 
 $ git remote add origin https://github.com/alejandrorico/prueba.git
+
+### subir archivos ###
+$ git push -u origin master
+
 
 
 
 Trabajar proyecto
-- bajar actualizaciones
+### bajar actualizaciones ###
 $ git pull
+
+
+
+Notas HTML
