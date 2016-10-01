@@ -36,3 +36,7 @@ $ git pull
 
 
 Notas HTML
+
+https://stickybitshell.wordpress.com/2013/05/06/gml-lenguaje-de-marcado-para-grafos-networkxpython-iii/
+
+
